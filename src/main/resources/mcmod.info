@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "soulfoundry",
+  "name": "Soul Foundry",
+  "description": "Power from the souls of the dead",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["masterventris"],
+  "credits": "",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

@@ -1,5 +1,6 @@
 # BLOCKS
 tile.soulfoundry.soulBlend.name=Soul Blend
+tile.soulfoundry.soulGlass.name=Soul Glass
 
 # CREATIVE
 itemGroup.SoulFoundry=Soul Foundry
